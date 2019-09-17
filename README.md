@@ -3,5 +3,5 @@
 ## Useage
 
 ```
-sh resize.sh
+sh resize.sh [img file path]
 ```
